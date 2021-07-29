@@ -1,0 +1,28 @@
+.container{
+    border: 5px solid rgb(252, 0, 0);
+    padding: 10px;
+
+}
+.container-fluid{
+    background-color: chartreuse;
+    padding: 30px;
+    position: fixed;
+}
+.col{
+    border: 3px solid blue;
+    background-color: chartreuse;
+}
+.col-2{
+    border: 3px solid blue;
+}
+.pad{
+    padding: 10px;
+    margin: 10px;
+}
+.row{
+    border: 20px solid black;
+}
+
+.this{
+    background-color: red;
+}
